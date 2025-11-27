@@ -1,0 +1,12 @@
+# Ignore Kernel Build Artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+.*.cmd
+.tmp_versions/
+
+# Ignore System Logs/Temp files
+*.log
