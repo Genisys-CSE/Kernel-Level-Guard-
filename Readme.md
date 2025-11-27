@@ -64,7 +64,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/K-Guard.git
+git clone https://github.com/Genisys-CSE/K-Guard.git
 cd K-Guard
 Make the Script Executable:
 
